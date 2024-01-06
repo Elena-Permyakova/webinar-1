@@ -1,2 +1,2 @@
-# webinar-1
+# webinar 1
 Demo repo
